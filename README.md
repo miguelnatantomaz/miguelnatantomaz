@@ -41,6 +41,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/miguelnatantomaz/miguelnatantomaz/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/miguelnatantomaz/miguelnatantomaz/blob/output/github-contribution-grid-snake.svg)
 
 ###
