@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-- 📍 Curitiba, PR
+- 📍  Curitiba, PR
 - 👨🏾‍💻 Desde que me conheço por gente sempre achei fascinante tudo que envolvia computador, sempre ficava de olho em tecnologias e outras novidades. Mas nunca achei que era possivel trabalhar nessa área, então trabalhando como Mecânico industrial, onde foi nessa profissão que eu percebi que estava resolvendo muitos problemas que nem imaginava que conseguiria, vi ali um potencial em mim onde nunca havia visto antes, desde então fiz a transição de carreira para a área de tencologia, e estou à quase 1 ano estudando para ingressar no mercado de trabalho.
 
 <div align="center">
