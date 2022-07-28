@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/miguelnatantomaz/count.svg?"  />
+  ![snake gif](https://github.com/miguelnatantomaz/miguelnatantomaz/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ###
