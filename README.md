@@ -5,7 +5,7 @@
 <br clear="both">
 
 - 📍  Curitiba, PR
-- 👨🏾‍💻 Desde que me conheço por gente sempre achei fascinante tudo que envolvia computador, sempre ficava de olho em tecnologias e outras novidades. Mas achei que não era possivel trabalhar na área, então trabalhando como Mecânico industrial, onde foi nessa profissão que eu estava resolvendo muitos problemas que nem imaginava que conseguiria, foi onde percebi ali um potencial onde poderia usar para migrar de área, desde então fiz a transição de carreira para a área de tencologia, e estou à quase 1 ano estudando para ingressar no mercado de trabalho como Desenvolvedor.
+- 👨🏾‍💻 Sempre fui um entusiasta de tecnologias, porém só descobri que eu queria realmente seguir na área de desenvolvimento passando por diversos desafios, e percebendo que minha vontade de aprender e de resolver problemas era cada vez maior. Prezando em iniciar minha carreira, ingressei no curso FullStack da Kenzie Academy.
 
 <div align="center">
   <img height="222" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif"  />
