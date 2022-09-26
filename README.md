@@ -5,7 +5,7 @@
 <br clear="both">
 
 - 📍  Curitiba, PR
-- 👨🏾‍💻 Sempre fui um entusiasta de tecnologias, porém só descobri que eu queria realmente seguir na área de desenvolvimento passando por diversos desafios, e percebendo que minha vontade de aprender e de resolver problemas era cada vez maior. Prezando em iniciar minha carreira, ingressei no curso FullStack da Kenzie Academy.
+- 👨🏾‍💻 Sempre fui um entusiasta de tecnologias, porém só descobri que eu queria realmente seguir na área de desenvolvimento passando por diversos desafios, e percebendo que minha vontade de aprender e de resolver problemas era cada vez maior.
 
 <div align="center">
   <img height="222" src="https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif"  />
